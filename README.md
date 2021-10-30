@@ -15,7 +15,6 @@ Chapter 8 - Functions & Recursion<br>
 Chapter 9 - File I/O<br>
 Chapter 10 - Object Oriented Programming: <br>
 Chapter 11 - Inheritance <br>
-Project 1 - Snake, Water, Gun Game<br>
-Project 2 - The Perfect Guess</ul> </p>
+ </p>
 
 <b> SPEICAL CREDITS : CodeWithHarry</b>
